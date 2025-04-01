@@ -82,7 +82,7 @@ http://localhost/theflyingdutchman
 ## 📬 Contact
 For queries, reach out via:
 - **GitHub**: [@ashishb096](https://github.com/ashishb096)
-- **Email**: bisht2001ashish@gmail.com (mailto:bisht2001ashish@gmail.com)
+- **Email**: [bisht2001ashish@gmail.com] (mailto:bisht2001ashish@gmail.com)
 
 ---
 ### 🔥 Show Some Love
